@@ -7,7 +7,7 @@ export const personalInfo = {
   github: "https://github.com/ishan1223",
   leetcode: "https://leetcode.com/u/ishan1223/",
   resumePath: "/resume.pdf",
-  portrait: "/images/portrait-placeholder.svg",
+  portrait: "/images/profile.jpg",
   heroTagline: "Turning Ideas Into Products, One Commit at a Time.",
   typingRoles: [
     "Computer Science Undergraduate",
@@ -41,7 +41,7 @@ export const linkedinProfile = {
   headline: "Computer Science Student · Full Stack Developer · AI Enthusiast",
   location: "United States",
   connections: 500,
-  image: "/images/linkedin-profile.svg",
+  image: "/images/profile.jpg",
   featuredPosts: [
     {
       title: "Shipped my first AI-powered side project",
