@@ -42,6 +42,7 @@ export const linkedinProfile = {
   location: "United States",
   connections: 500,
   image: "/images/profile.jpg",
+  image: "/images/profile.jpg",
   featuredPosts: [
     {
       title: "Shipped my first AI-powered side project",
