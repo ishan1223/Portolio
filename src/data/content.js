@@ -1,8 +1,8 @@
 export const personalInfo = {
   name: "Ishan",
   title: "Software Engineer",
-  email: "your.email@university.edu",
-  phone: "+1 (555) 000-0000",
+  email: "ishankumar1437@gmail.com",
+  phone: "+91 73178-98911",
   linkedin: "https://linkedin.com/in/yourprofile",
   github: "https://github.com/ishan1223",
   leetcode: "https://leetcode.com/u/ishan1223/",
