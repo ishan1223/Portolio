@@ -1,14 +1,14 @@
 export const personalInfo = {
   name: "Ishan",
   title: "Software Engineer",
-  email: "your.email@university.edu",
-  phone: "+1 (555) 000-0000",
-  linkedin: "https://linkedin.com/in/yourprofile",
+  email: "ishankumar1437@gmail.com",
+  phone: "+91 73178-98911",
+  linkedin: "https://www.linkedin.com/in/ishan-kumar-53484b33b?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   github: "https://github.com/ishan1223",
   leetcode: "https://leetcode.com/u/ishan1223/",
   resumePath: "/resume.pdf",
   portrait: "/images/profile.jpg",
-  heroTagline: "Turning Ideas Into Products, One Commit at a Time.",
+  heroTagline: "Engineering Ideas Into Real-World Software.",
   typingRoles: [
     "Computer Science Undergraduate",
     "Full Stack Developer",
@@ -39,8 +39,8 @@ export const navLinks = [
 export const linkedinProfile = {
   url: personalInfo.linkedin,
   headline: "Computer Science Student · Full Stack Developer · AI Enthusiast",
-  location: "United States",
-  connections: 500,
+  location: "Kanpur, Uttar Pradesh, India",
+  connections: 256,
   image: "/images/profile.jpg",
   featuredPosts: [
     {
@@ -70,10 +70,10 @@ export const linkedinProfile = {
 export const leetcodeStats = {
   url: personalInfo.leetcode,
   username: "ishan1223",
-  totalSolved: 350,
-  easy: 120,
-  medium: 180,
-  hard: 50,
+  totalSolved: 50,
+  easy: 21,
+  medium: 18,
+  hard: 11,
   contestRating: 1650,
 };
 
@@ -92,7 +92,7 @@ export const skills = [
   },
   {
     category: "AI Tools",
-    items: ["PyTorch", "TensorFlow", "OpenAI API", "LangChain", "scikit-learn", "Hugging Face"],
+    items: ["PyTorch", "TensorFlow", "OpenAI API", "scikit-learn", "Hugging Face"],//"LangChain",
   },
   {
     category: "Developer Tools",
@@ -183,11 +183,11 @@ export const experience = [
 ];
 
 export const achievements = [
-  { label: "Projects Built", value: 12, suffix: "+" },
-  { label: "GitHub Commits", value: 500, suffix: "+" },
-  { label: "Technologies", value: 25, suffix: "+" },
-  { label: "Problem Solving", value: 200, suffix: "+" },
-  { label: "Years Learning", value: 4, suffix: "" },
+  { label: "Projects Built", value: 4, suffix: "+" },
+  { label: "GitHub Commits", value: 10, suffix: "+" },
+  { label: "Technologies", value: 15, suffix: "+" },
+  { label: "Problem Solving", value: 50, suffix: "+" },
+  { label: "Years Learning", value: 2, suffix: "" },
 ];
 
 export const githubStats = {
